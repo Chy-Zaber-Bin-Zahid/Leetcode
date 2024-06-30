@@ -1,2 +1,2 @@
 # Leetcode
-<p>Link to my Leetcode profile -> <a>https://leetcode.com/u/Chy-Zaber-Bin-Zahid/</a></p>
+[Link to my LeetCode profile](https://leetcode.com/u/Chy-Zaber-Bin-Zahid/)
