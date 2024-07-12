@@ -9,9 +9,9 @@ class Solution:
             product *= nums[i-1]
             answer[i] = product
         product = 1
-        for j in range(len(nums)-2, -1, -1):
-            product *= nums[j+1]
-            answer[j] = product*answer[j]
+        for i in range(len(nums)-2, -1, -1):
+            product *= nums[i+1]
+            answer[i] = product*answer[i]
         return answer
                         
 sol = Solution()
